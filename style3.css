@@ -1,0 +1,38 @@
+h1{
+  text-align: -webkit-center;
+  color:white;
+  font-weight: 600;
+  font-style: italic;
+}
+
+h2{
+  text-align: -webkit-center;
+  color:white;
+  font-weight: 600;
+  font-style: italic;
+
+
+}
+.register{
+  background-repeat:no-repeat;
+  background-size: 100% 1000px
+  background-color: :#92bde7;
+  color: white;
+  margin: right;
+
+}
+.reg{
+  background-color: rgba(0,0,0,0.5);
+  border: 2px solid white;
+  border-radius:10px;
+  margin: auto;
+}
+.form-control{
+  background-color: transparent;
+  border:none;
+  border-bottom: 2px solid white;
+  border-radius: 0px !important;
+  outline:0;
+  margin: auto;
+
+}
